@@ -104,7 +104,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 - :zap: A billing website
   
     
-  ## Contact Me
+ ## Contact Me
 
 
 <p align="center">
