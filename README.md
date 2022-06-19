@@ -5,7 +5,7 @@
 
 
 
-
+<div align=center>
 ---
 
 ### :woman_technologist: About Me :
@@ -19,7 +19,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 - :zap: In my free time, I love to devlop applications and solve problems and learn new languages
 
   ---
-
+</div>
 ### :hammer_and_wrench: Languages and Tools :
     
 <table>
