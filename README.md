@@ -62,9 +62,9 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   </div> 
     
-    <table>
-    <tbody>
-        <tr>
+<table>
+   <tbody>
+       <tr>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
                         src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" /></a>
             </td>
@@ -80,8 +80,8 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
-        </tr>
-        <tr>
+       </tr>
+       <tr>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             <td><a href="#"><img alt="C#" title="C#" height="28px"
@@ -93,8 +93,8 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
-        </tr>
-        <tr>
+       </tr>
+       <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
             </td>
@@ -108,8 +108,8 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
-        </tr>
-        <tr>
+       </tr>
+       <tr>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
             </td>
@@ -121,7 +121,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
             <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-        </tr>
+       </tr>
     </tbody>
 </table>
   
