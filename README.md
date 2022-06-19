@@ -13,13 +13,15 @@
 I am a Artificial Intelligence And Data Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chennai,India.
 
 :telescope: I Love to code and develop applications 
+ 
+:seedling: Exploring backend devlopment, Data science, Machine learning and lot more
+ 
+:zap: In my free time, I love to devlop applications and solve problems and learn new languages
 
-- :seedling: Exploring backend devlopment, Data science, Machine learning and lot more
-
-- :zap: In my free time, I love to devlop applications and solve problems and learn new languages
-
-  ---
+---
 </div>
+
+<div>
 ### :hammer_and_wrench: Languages and Tools :
     
 <table>
@@ -71,16 +73,19 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
        </tr>
     </tbody>
 </table>
-  
+
+</div>
+
+<div>
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunprakash027&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunprakash027&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ### :woman_technologist: curruntrly working on :
-- :zap: A voice based virtual assitant
-- :zap: A billing website
-  
+ :zap: A voice based virtual assitant
+ :zap: A billing website
+</div>
     
  ## Contact Me
 
