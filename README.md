@@ -2,6 +2,10 @@
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Arjun+%F0%9F%91%8B;AI+and+DATA+SCIENCE+Student;machine-Learning+Engineer;Problem+Solver;backend+engineer" alt="Headline" />
  </div>
+ <br>
+ <br>
+ <br>
+ <br>
 
 
 
@@ -20,6 +24,10 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 
 ---
 </div>
+<br>
+<br>
+<br>
+<br>
 
 <div align=center>
 ### :hammer_and_wrench: Languages and Tools :
@@ -75,6 +83,10 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 </table>
 
 </div>
+<br>
+<br>
+<br>
+<br>
 
 
   ### :fire: My Stats :
