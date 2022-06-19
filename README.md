@@ -103,3 +103,16 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 - :zap: A voice based virtual assitant
 - :zap: A billing website
   
+    
+  ## Contact Me
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjun-prakash-589348211/"><img alt="Linkedin" title="Arjun Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/arjunprakash027"><img alt="Github" title="arjun Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/arjun_.rao/"><img alt="Instagram" title="arjun Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:arjunprakash027@gmail.com"><img alt="Gmail" title="Arjun Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"><img alt="Twitter" title="arjun Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
