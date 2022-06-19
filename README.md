@@ -18,7 +18,6 @@
 </div>
 
 <h2>
-  HEY THERE
   <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="50"/>
 </h2>
 
