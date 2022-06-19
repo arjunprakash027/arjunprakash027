@@ -30,6 +30,8 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 <br>
 
 <div align=center>
+---
+ 
 ### :hammer_and_wrench: Languages and Tools :
     
 <table>
@@ -81,6 +83,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
        </tr>
     </tbody>
 </table>
+---
 
 </div>
 <br>
