@@ -21,7 +21,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 ---
 </div>
 
-<div>
+<div align=center>
 ### :hammer_and_wrench: Languages and Tools :
     
 <table>
@@ -76,7 +76,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 
 </div>
 
-<div>
+<div align=center>
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunprakash027&theme=dark&background=000000)](https://git.io/streak-stats)
   
@@ -85,6 +85,7 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
   ### :woman_technologist: curruntrly working on :
  :zap: A voice based virtual assitant
  :zap: A billing website
+ 
 </div>
     
  ## Contact Me
