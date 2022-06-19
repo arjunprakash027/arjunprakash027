@@ -27,11 +27,6 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
 
 - :zap: In my free time, I love to devlop applications and solve problems and learn new languages
 
-- :mailbox:How to reach me: <div id="badges" align = "left">
-  <a href="https://www.linkedin.com/in/arjun-prakash-589348211/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
