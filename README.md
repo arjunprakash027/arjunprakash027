@@ -101,9 +101,9 @@ I am a Artificial Intelligence And Data Science student <img src="https://media.
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunprakash027&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ### :woman_technologist: curruntrly working on :
- :zap: A voice based virtual assitant
+ :zap: A django website to do random stuffs
  <br>
- :zap: A billing website
+ :zap: A police ngo website
  
     
  ## Contact Me
