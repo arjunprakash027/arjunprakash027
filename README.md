@@ -83,7 +83,7 @@ I am an Artificial Intelligence and Data Science student from Chennai, India. :i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunprakash027&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :woman_technologist: Currently Working On/As :
+### :woman_technologist: Currently Working On :
 
 :zap: Generative AI
 
