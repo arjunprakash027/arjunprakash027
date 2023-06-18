@@ -70,9 +70,9 @@ I am an Artificial Intelligence and Data Science student <img src="https://media
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunprakash027&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
 
-### :woman_technologist: Currently working on/as:
+### :woman_technologist: Currently working on:
 
-:zap: A Python Developer intern at ImaginorLabs
+:zap: Generative AI
 
 ## Contact Me
 
