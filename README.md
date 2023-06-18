@@ -28,28 +28,29 @@ I am an Artificial Intelligence and Data Science student <img src="https://media
 
 ---
 
+
 ### :hammer_and_wrench: Languages and Tools:
 
 <p align="center">
-    <a href="#"><img alt="Firebase" title="Firebase" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"></a>
-    <a href="#"><img alt="HTML5" title="HTML5" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-    <a href="#"><img alt="MySQL" title="MySQL" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></a>
-    <a href="#"><img alt="Git" title="Git" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></a>
-    <a href="#"><img alt="Python" title="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+    <img alt="Firebase" title="Firebase" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+    <img alt="HTML5" title="HTML5" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img alt="MySQL" title="MySQL" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img alt="Git" title="Git" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+    <img alt="Python" title="Python" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
 </p>
 <p align="center">
-    <a href="#"><img alt="C++" title="C++" height="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
-    <a href="#"><img alt="Flask" title="Flask" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></a>
-    <a href="#"><img alt="Kaggle" title="Kaggle" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg"></a>
-    <a href="#"><img alt="MongoDB" title="MongoDB" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
-    <a href="#"><img alt="NumPy" title="NumPy" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></a>
+    <img alt="C++" title="C++" height="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+    <img alt="Flask" title="Flask" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+    <img alt="Kaggle" title="Kaggle" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg">
+    <img alt="MongoDB" title="MongoDB" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img alt="NumPy" title="NumPy" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
 </p>
 <p align="center">
-    <a href="#"><img alt="PostgreSQL" title="PostgreSQL" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
-    <a href="#"><img alt="SQL" title="SQL" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
-    <a href="#"><img alt="Django" title="Django" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"></a>
-    <a href="#"><img alt="SQLite" title="SQLite" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></a>
-    <a href="#"><img alt="GitHub" title="GitHub" height="28px" src="https://i.imgur.com/DZgetVv.png"></a>
+    <img alt="PostgreSQL" title="PostgreSQL" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img alt="SQL" title="SQL" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg">
+    <img alt="Django" title="Django" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg">
+    <img alt="SQLite" title="SQLite" height="32px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
+    <img alt="GitHub" title="GitHub" height="32px" src="https://i.imgur.com/DZgetVv.png">
 </p>
 
 ---
