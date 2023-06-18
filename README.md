@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of your README file with more changes in aesthetics and additional features:
-
-```markdown
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Arjun+%F0%9F%91%8B;AI+and+DATA+SCIENCE+Student;Machine-Learning+Engineer;Problem+Solver;Backend+Engineer" alt="Headline" />
 </div>
@@ -47,9 +44,7 @@ I am an Artificial Intelligence and Data Science student <img src="https://media
     <a href="#"><img alt="MongoDB" title="MongoDB" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
     <a href="#"><img alt="NumPy" title="NumPy" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></a>
 </p>
-<p align="center
-
-">
+<p align="center">
     <a href="#"><img alt="PostgreSQL" title="PostgreSQL" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
     <a href="#"><img alt="SQL" title="SQL" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
     <a href="#"><img alt="Django" title="Django" height="28px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"></a>
