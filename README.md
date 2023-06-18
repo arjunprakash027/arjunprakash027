@@ -85,7 +85,7 @@ I am an Artificial Intelligence and Data Science student from Chennai, India. :i
 
 ### :woman_technologist: Currently Working On/As :
 
-:zap: Python Developer intern at ImaginorLabs
+:zap: Generative AI
 
 ---
 
