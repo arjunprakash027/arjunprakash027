@@ -25,6 +25,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="32px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" height="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" height="32px">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" title="NumPy" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" title="SQL" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" alt="Django" title="Django" height="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" height="32px">
+  <img src="https://i.imgur.com/DZgetVv.png" alt="GitHub" title="GitHub" height="32px">
 </p>
 
 <!-- GitHub Stats Section -->
@@ -38,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunprakash027&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </p>
 
-<!-- Current Projects Section -->
+<!-- Currently Working On Section -->
 <h2 align="center">:woman_technologist: Currently working on</h2>
 
 <p align="center">:zap: Generative AI</p>
@@ -53,6 +63,4 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arjunprakash027@gmail.com"><img alt="Gmail" title="Arjun Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/arjunprakash027"><img alt="Twitter" title="Arjun Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+  <a href="mailto:arjun
