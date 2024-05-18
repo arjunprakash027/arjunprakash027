@@ -1,41 +1,16 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hi there, I'm Arjun</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=AI+and+DATA+SCIENCE+Student;Machine-Learning+Engineer;Problem+Solver;Backend+Engineer" alt="Typing SVG" />
-</p>
-
 <!-- About Me Section -->
 <h2 align="center">:woman_technologist: About Me</h2>
 
-<p align="center">I'm an Artificial Intelligence and Data Science student from Chennai, India.</p>
+<p align="center">I work as Data Intern at JMAN Group.</p>
 
 <ul align="center">
   <li>:telescope: Passionate about coding and application development.</li>
   <li>:seedling: Exploring backend development, data science, and machine learning.</li>
   <li>:zap: In my free time, I enjoy solving problems and learning new technologies.</li>
 </ul>
-
-<!-- Languages and Tools Section -->
-<h2 align="center">:hammer_and_wrench: Languages and Tools</h2>
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" height="32px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" height="32px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" height="32px">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" title="NumPy" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="32px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" title="SQL" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" alt="Django" title="Django" height="32px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" height="32px">
-  <img src="https://i.imgur.com/DZgetVv.png" alt="GitHub" title="GitHub" height="32px">
-</p>
 
 <!-- GitHub Stats Section -->
 <h2 align="center">:fire: My Stats</h2>
