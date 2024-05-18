@@ -23,11 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunprakash027&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </p>
 
-<!-- Currently Working On Section -->
-<h2 align="center">:woman_technologist: Currently working on</h2>
-
-<p align="center">:zap: Generative AI</p>
-
 <!-- Contact Me Section -->
 <h2 align="center">Contact Me</h2>
 
