@@ -4,7 +4,7 @@
 <!-- About Me Section -->
 <h2 align="center">:woman_technologist: About Me</h2>
 
-<p align="center">I work as Data Intern at JMAN Group.</p>
+<p align="center">I work as software engineer JMAN Group.</p>
 
 <ul align="center">
   <li>:telescope: Passionate about coding and application development.</li>
