@@ -75,4 +75,6 @@ I write to deepen my understanding and share insights on data technology and pro
 - [LinkedIn](https://www.linkedin.com/in/arjun-prakash-589348211/)  
 - [GitHub](https://github.com/arjunprakash027)  
 - [Instagram](https://www.instagram.com/arjun_.rao/)  
-- [Email](mailto:arjunprakash027@gmail.com)  
+- [Email](mailto:arjunprakash027@gmail.com)
+
+  _Last updated: January 1, 2025_
