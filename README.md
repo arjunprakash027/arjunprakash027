@@ -1,5 +1,7 @@
 ![arjun-in-ascii](https://github.com/user-attachments/assets/db25f825-927b-4a84-86cd-3fc2e21b87d4)
+
                                                         
+_Last updated: January 1, 2025_
 <!-- Header Section -->
 # 👋 Hello, I'm Arjun
 ---
@@ -76,5 +78,3 @@ I write to deepen my understanding and share insights on data technology and pro
 - [GitHub](https://github.com/arjunprakash027)  
 - [Instagram](https://www.instagram.com/arjun_.rao/)  
 - [Email](mailto:arjunprakash027@gmail.com)
-
-  _Last updated: January 1, 2025_
