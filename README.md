@@ -39,6 +39,13 @@ I'm a Data Scientist at JMAN Group, a Forbes Top Management Consulting firm (202
 - Designed and implemented a Django backend, integrated with a user-friendly web interface hosted on DigitalOcean.
 ---
 
+<!-- Currently working on -->
+## 🚀 Things I am exploring right now
+
+- **[Hadoop and Hive](https://hive.apache.org/):** Using Hadoop and Hive for my data storage and pre processing requirements for all my future projects
+- **[Stock Market Kaggle Competitions](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting):** Exploring kaggle competitions on stock market data to solidify my understanding on application of ML systems in financial markets
+---
+
 <!-- Projects Section -->
 ## 🚀 Some of my repositories to explore
 
@@ -55,8 +62,8 @@ I'm a Data Scientist at JMAN Group, a Forbes Top Management Consulting firm (202
 
 I write to deepen my understanding and share insights on data technology and programming. Some of my popular posts:
 
-- [Understanding Cosine Similarity](https://medium.com/@arjunprakash027/understanding-cosine-similarity-a-key-concept-in-data-science-72a0fcc57599) — 4.5k+ Reads
-- [Threading vs Multiprocessing](https://medium.com/@arjunprakash027/threading-vs-multiprocessing) — 4.5k+ Reads
+- [Understanding Cosine Similarity](https://medium.com/@arjunprakash027/understanding-cosine-similarity-a-key-concept-in-data-science-72a0fcc57599) — 5.5k+ Reads 10k Views
+- [Threading vs Multiprocessing](https://medium.com/@arjunprakash027/threading-vs-multiprocessing) — 5.5k+ Reads 9k Views
 - [Markov Chains](https://medium.com/@arjunprakash027/markov-chains) — 545 Reads
 - [Look at my medium profile to view my other blogs](https://medium.com/@arjunprakash027)
 
