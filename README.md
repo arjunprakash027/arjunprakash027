@@ -22,6 +22,24 @@ I'm a Data Scientist at JMAN Group, a Forbes Top Management Consulting firm (202
 
 ---
 
+<!-- Work Experience Section -->
+## 💼 Work Experience
+
+### Data Scientist | JMAN Group (June 2024 – Present)
+- **US and EMEA-based Cybersecurity Company**: Designed and implemented a LightGBM model for seat expansion propensity, achieving 40% precision and 50% recall, leading to a 15% revenue boost ($7M). Model insights enabled sales reps to prioritize leads effectively.
+- **Europe-based Parking Company**: Conducted topic modeling using MiniLM, UMAP, and HDBSCAN on GDPR-compliant transcript data, increasing actionable insights by 20%.
+- **AutoML Tool**: Developed an internal AutoML tool integrating feature selection, Bayesian optimization, and SHAP explainability, reducing project kickoff time by 2 weeks for predictive modeling tasks.
+
+### Python Developer Intern | Imaginorlabs (Sep 2022 – Mar 2023)
+- Built an AI-powered invoice processing solution using YOLOv7, achieving 80% accuracy for item detection.
+- Designed and implemented a Django backend, integrated with a user-friendly web interface hosted on DigitalOcean.
+
+### Software Intern | JMAN Group (Jan 2024 – June 2024)
+- Automated web scraping for a telecom firm using AI-based reCAPTCHA solving, reducing data extraction time by 5x.
+- Developed a budget optimization tool leveraging SLSQP, Django, and React, streamlining category allocations by 30%.
+
+---
+
 <!-- Projects Section -->
 ## 🚀 Some of my repositories to explore
 
