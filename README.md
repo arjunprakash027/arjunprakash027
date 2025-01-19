@@ -9,7 +9,7 @@ _Last updated: January 1, 2025_
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
-I'm a Data Scientist at JMAN Group, a Forbes Top Management Consulting firm (2024). My work spans AI, data science, and mathematical modeling.
+I'm a Software Engineer (mostly working in data science) at JMAN Group, a Forbes Top Management Consulting firm (2024). My work spans AI, data science, and mathematical modeling.
 
 - 🌟 Passionate about exploring the intersection of mathematics, statistics, and programming to uncover truths and create impactful solutions.
 - 📘 A lifelong learner, delving into topics ranging from backend development to deep learning and advanced AI concepts.
