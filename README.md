@@ -44,8 +44,8 @@ I'm a Data Scientist at JMAN Group, a Forbes Top Management Consulting firm (202
 <!-- Currently working on -->
 ## 🚀 Things I am exploring right now
 
-- **[Hadoop and Hive](https://hive.apache.org/):** Using Hadoop and Hive for my data storage and pre processing requirements for all my future projects
-- **[Stock Market Kaggle Competitions](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting):** Exploring kaggle competitions on stock market data to solidify my understanding on application of ML systems in financial markets
+- **[Ollam](https://ollama.com/):** Exploring ollama and how to integrate SLM agents into my workflow
+- **[Stock Market Kaggle Competitions](https://www.kaggle.com/competitions/statistella):** Exploring kaggle competitions on stock market data to solidify my understanding on application of ML systems in financial markets
 ---
 
 <!-- Projects Section -->
