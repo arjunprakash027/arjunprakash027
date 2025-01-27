@@ -3,8 +3,7 @@
                                                         
 _Last updated: January 1, 2025_
 <!-- Header Section -->
-# 👋 Hello, I'm Arjun
-[portfolio](arjunrao.space)
+# 👋 Hello, I'm [Arjun](https://arjunrao.space)
 ---
 
 <!-- About Me Section -->
