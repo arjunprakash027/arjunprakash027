@@ -17,48 +17,6 @@ I'm a Software Engineer (mostly working in data science) at JMAN Group, a Forbes
 
 ---
 
-<!-- GitHub Stats Section -->
-## My GitHub Stats
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunprakash027&theme=dark&background=000000)
-
----
-
-<!-- Work Experience Section -->
-## 💼 Stuffs I did at work
-
-### Data Scientist | JMAN Group (June 2024 – Present)
-- **US and EMEA-based Cybersecurity Company**: Designed and implemented a LightGBM model for seat expansion propensity, achieving 40% precision and 50% recall, leading to a 15% revenue boost ($7M). Model insights enabled sales reps to prioritize leads effectively.
-- **Europe-based Parking Company**: Conducted topic modeling using MiniLM, UMAP, and HDBSCAN on GDPR-compliant transcript data, increasing actionable insights by 20%.
-- **AutoML Tool**: Developed an internal AutoML tool integrating feature selection, Bayesian optimization, and SHAP explainability, reducing project kickoff time by 2 weeks for predictive modeling tasks.
-
-### Software Intern | JMAN Group (Jan 2024 – June 2024)
-- Automated web scraping for a telecom firm using AI-based reCAPTCHA solving, reducing data extraction time by 5x.
-- Developed a budget optimization tool leveraging SLSQP, Django, and React, streamlining category allocations by 30%.
-
-### Python Developer Intern | Imaginorlabs (Sep 2022 – Mar 2023)
-- Built an AI-powered invoice processing solution using YOLOv7, achieving 80% accuracy for item detection.
-- Designed and implemented a Django backend, integrated with a user-friendly web interface hosted on DigitalOcean.
----
-
-<!-- Currently working on -->
-## 🚀 Things I am exploring right now
-
-- **[Ollam](https://ollama.com/):** Exploring ollama and how to integrate SLM agents into my workflow
-- **[Stock Market Kaggle Competitions](https://www.kaggle.com/competitions/statistella):** Exploring kaggle competitions on stock market data to solidify my understanding on application of ML systems in financial markets
----
-
-<!-- Projects Section -->
-## 🚀 Some of my repositories to explore
-
-- **[HandcraftedML](https://github.com/arjunprakash027/HandcraftedML):** A collection of ML topics and code, sometimes from scratch or through implementation.
-- **[DL with TensorFlow](https://github.com/arjunprakash027/Deep-Learning-With-Tensorflow):** Extensive guide on TensorFlow basics, neural networks, and MNIST classification.
-- **[CSV2Notion-Neo](https://github.com/THEACHARYA/CSV2NOTION-NEO):** CLI tool for advanced CSV upload to Notion with enhanced speed and automation.
-- **[Sandbox](https://github.com/arjunprakash027/HandcraftedML):** A collection of non-ML common software engineering topics that excite me.
-- View more of my projects [here](https://www.arjunrao.bio/projects).
-
----
-
 <!-- Blog Section -->
 ## ✍️ Technical Blogs
 
