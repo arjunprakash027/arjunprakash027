@@ -1,4 +1,4 @@
-![arjun-in-ascii](https://github.com/user-attachments/assets/db25f825-927b-4a84-86cd-3fc2e21b87d4)
+
 
                                                         
 _Last updated: January 1, 2025_
