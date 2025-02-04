@@ -1,7 +1,7 @@
 
 
                                                         
-_Last updated: January 1, 2025_
+_Last updated: Feb 4, 2025_
 <!-- Header Section -->
 # 👋 Hello, I'm [Arjun](https://arjunrao.space)
 ---
